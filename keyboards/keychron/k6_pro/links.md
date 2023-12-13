@@ -1,5 +1,8 @@
 # Reference links
 
+https://docs.qmk.fm/#/keycodes | Full List
+https://get.vial.today/manual/custom_keycode.html | Custom Keycode - Vial
+https://docs.qmk.fm/#/feature_key_overrides | Key Overrides
 https://github.com/arcturegulus/vial-qmk | arcturegulus/vial-qmk: QMK fork with Vial-specific features.
 https://www.reddit.com/r/Keychron/comments/wiv4z7/trying_to_edit_k8_pro_firmware_for_reactive_via/ | Trying to Edit K8 Pro Firmware for Reactive VIA Lighting Effects : r/Keychron
 https://www.reddit.com/r/Keychron/comments/115tgk6/tap_dance_for_k_pro_series_with_vial_now_working/ | Tap Dance for K Pro Series with Vial now working! : r/Keychron
