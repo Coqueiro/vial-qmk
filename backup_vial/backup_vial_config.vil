@@ -737,7 +737,7 @@
             "layers": 65535,
             "trigger_mods": 4,
             "negative_mod_mask": 0,
-            "suppressed_mods": 0,
+            "suppressed_mods": 4,
             "options": 135
         },
         {
