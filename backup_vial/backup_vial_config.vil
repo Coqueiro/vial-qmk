@@ -707,7 +707,7 @@
         {
             "trigger": "KC_ESCAPE",
             "replacement": "KC_GRAVE",
-            "layers": 65534,
+            "layers": 65532,
             "trigger_mods": 8,
             "negative_mod_mask": 0,
             "suppressed_mods": 8,
@@ -716,7 +716,7 @@
         {
             "trigger": "KC_BSPACE",
             "replacement": "KC_DELETE",
-            "layers": 65534,
+            "layers": 65532,
             "trigger_mods": 8,
             "negative_mod_mask": 0,
             "suppressed_mods": 8,
@@ -743,7 +743,7 @@
         {
             "trigger": "KC_HOME",
             "replacement": "KC_END",
-            "layers": 65534,
+            "layers": 65532,
             "trigger_mods": 8,
             "negative_mod_mask": 0,
             "suppressed_mods": 8,
@@ -752,7 +752,7 @@
         {
             "trigger": "KC_BSLASH",
             "replacement": "KC_NONUS_BSLASH",
-            "layers": 65535,
+            "layers": 65533,
             "trigger_mods": 17,
             "negative_mod_mask": 0,
             "suppressed_mods": 17,
@@ -761,7 +761,7 @@
         {
             "trigger": "KC_BSLASH",
             "replacement": "LSFT(KC_NONUS_BSLASH)",
-            "layers": 65534,
+            "layers": 65532,
             "trigger_mods": 8,
             "negative_mod_mask": 0,
             "suppressed_mods": 8,
