@@ -353,9 +353,9 @@
         [
             [
                 "LSFT(KC_GRAVE)",
-                "DYN_REC_START1",
-                "DYN_REC_STOP",
-                "DYN_MACRO_PLAY1",
+                "KC_F1",
+                "KC_F2",
+                "KC_F3",
                 "KC_F4",
                 "KC_F5",
                 "KC_F6",
@@ -405,8 +405,8 @@
             [
                 "KC_ACL2",
                 -1,
-                "KC_TRNS",
-                "KC_TRNS",
+                "KC_F13",
+                "KC_F14",
                 "KC_TRNS",
                 "USER04",
                 "KC_TRNS",
