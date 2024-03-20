@@ -420,9 +420,9 @@
                 "KC_TRNS"
             ],
             [
+                "KC_ACL0",
                 "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS",
+                "KC_BTN3",
                 -1,
                 -1,
                 -1,
