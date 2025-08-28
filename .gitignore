@@ -24,9 +24,9 @@
 # QMK-specific
 api_data/v1
 quantum/version.h
-*.bin
+# *.bin
 *.eep
-*.hex
+# *.hex
 *.qmk
 *.uf2
 *.vfw
