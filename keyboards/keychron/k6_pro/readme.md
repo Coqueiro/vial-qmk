@@ -19,3 +19,19 @@ Flashing example for this keyboard:
 **Reset Key**: Connect the USB cable, toggle mode switch to "Off", hold down the *Esc* key or reset button underneath space bar, then toggle then switch to "Cable".
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
+
+
+### To flash
+
+#### Build firmware
+- Open repo folder
+Run:
+> qmk setup
+> /opt/homebrew/Cellar/qmk/1.1.6/libexec/bin/python -m pip install -r /Users/lucas.garcia/Github/vial-qmk/requirements.txt
+> make keychron/k6_pro/ansi/rgb:vial
+
+#### Flash firmware
+- Open QMK Toolbox
+- open binary created at repo folder
+- Enter reset mode (turn off, remove spacebar, press reset button, turn on)
+- Press flash button
