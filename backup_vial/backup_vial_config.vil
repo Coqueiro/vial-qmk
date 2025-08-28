@@ -421,7 +421,7 @@
             ],
             [
                 "KC_ACL0",
-                "KC_TRNS",
+                "KC_LSHIFT",
                 "KC_BTN3",
                 -1,
                 -1,
@@ -744,10 +744,10 @@
             "trigger": "KC_Q",
             "replacement": "KC_KP_SLASH",
             "layers": 65535,
-            "trigger_mods": 4,
+            "trigger_mods": 64,
             "negative_mod_mask": 0,
-            "suppressed_mods": 4,
-            "options": 135
+            "suppressed_mods": 64,
+            "options": 143
         },
         {
             "trigger": "KC_HOME",
@@ -777,13 +777,13 @@
             "options": 135
         },
         {
-            "trigger": "KC_NO",
-            "replacement": "KC_NO",
+            "trigger": "KC_BSPACE",
+            "replacement": "KC_DELETE",
             "layers": 65535,
-            "trigger_mods": 0,
+            "trigger_mods": 9,
             "negative_mod_mask": 0,
-            "suppressed_mods": 0,
-            "options": 7
+            "suppressed_mods": 8,
+            "options": 135
         },
         {
             "trigger": "KC_NO",
